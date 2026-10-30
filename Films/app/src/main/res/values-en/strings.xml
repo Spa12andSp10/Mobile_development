@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RandomFilm</string>
+    <string name="ARandomFilm">A Random Film</string>
+    <string name="choose">CHOOSE</string>
+    <string name="filmsOver">No films left</string>
+    <string-array name="films">
+        <item>
+            Star Wars: Episode III – Revenge of the Sith
+        </item>
+        <item>
+            The Lord of the Rings: The Two Towers
+        </item>
+        <item>
+            Ready Player One
+        </item>
+        <item>
+            Now You See Me
+        </item>
+        <item>
+            Titanic
+        </item>
+        <item>
+            World Champion
+        </item>
+    </string-array>
+</resources>

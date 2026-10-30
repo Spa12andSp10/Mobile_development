@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RandomFilm</string>
+    <string name="ARandomFilm">Случайный фильм</string>
+    <string name="choose">ВЫБРАТЬ</string>
+    <string name="filmsOver">Фильмы закончились</string>
+    <string-array name="films">
+        <item>
+            Звездные Войны: Эпизод 3. Месть Ситхов
+        </item>
+        <item>
+            Властелин Колец: Две башни
+        </item>
+        <item>
+            Первому игроку приготовиться
+        </item>
+        <item>
+            Иллюзия обмана
+        </item>
+        <item>
+            Титаник
+        </item>
+        <item>
+            Чемпион мира
+        </item>
+    </string-array>
+</resources>
