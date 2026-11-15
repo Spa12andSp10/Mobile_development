@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrentWeatherDataBinding</string>
+    <string name="api_key">"your_personal_api_key"</string>
+
+    <string-array name="city_array">
+        <item>Иркутск</item>
+        <item>Шелехов</item>
+        <item>Братск</item>
+        <item>Тайшет</item>
+    </string-array>
+</resources>
